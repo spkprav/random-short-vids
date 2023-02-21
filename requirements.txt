@@ -1,0 +1,5 @@
+pexels-api
+ffmpeg-python
+Pillow
+moviepy
+requests
